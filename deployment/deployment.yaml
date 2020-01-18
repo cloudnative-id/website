@@ -1,0 +1,28 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: website
+  namespace: website
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        name: website
+    spec:
+      containers:
+        - name: website
+          image: asia.gcr.io/cloudnative-id/website:0.1.0-test1
+          imagePullPolicy: Always
+          args:
+          env:
+          ports:
+            - name: http
+              containerPort: 80
+          resources:
+            requests:
+              cpu: "250m"
+              memory: "256M"
+            limits:
+              cpu: "500m"
+              memory: "512M"

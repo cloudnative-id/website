@@ -1,0 +1,18 @@
+query presentation($id: String!) {
+  presentation(id: $id){
+    id
+    title
+    duration
+    slides
+    meetup {
+      name
+      date
+      id
+      meetupGroup {
+        meetupID
+        name
+      }
+    }
+  }
+}
+
