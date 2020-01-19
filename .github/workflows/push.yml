@@ -28,4 +28,4 @@ jobs:
     - name: Tag this with latest...
       env:
         DOCKER_IMAGE: ${{ secrets.DOCKER_IMAGE }}
-      run: docker push $DOCKER_IMAGE:latest | head -c7)
+      run: docker push $DOCKER_IMAGE:latest
