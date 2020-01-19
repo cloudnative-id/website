@@ -5,35 +5,35 @@
       <v-col cols="3" md="3" sm="3">
         <v-list-item style="justify-content:center">
           <v-list-item-icon>
-            <a href="https://github.com/cloud-native-nordics" target="_blank">
+            <a href="https://github.com/cloudnative-id" target="_blank">
               <v-img max-height="32px" src="/GitHub-Mark-32px.png" class="github" />
             </a>
           </v-list-item-icon>
           <a
             class="d-none d-md-flex"
-            href="https://github.com/cloud-native-nordics"
+            href="https://github.com/cloudnative-id"
             target="_blank"
-          >github.com/cloud-native-nordics</a>
+          >github.com/cloudnative-id</a>
         </v-list-item>
       </v-col>
       <v-col cols="3" md="3" sm="3">
         <v-list-item style="justify-content:center">
           <v-list-item-icon>
-            <a href="https://twitter.com/hashtag/CloudNativeNordics" target="_blank">
+            <a href="https://twitter.com/hashtag/CloudNativeID" target="_blank">
               <v-img max-height="36px" src="/twitter.png" class="github" />
             </a>
           </v-list-item-icon>
           <a
             class="d-none d-md-flex"
-            href="https://twitter.com/hashtag/CloudNativeNordics"
+            href="https://twitter.com/hashtag/CloudNativeID"
             target="_blank"
             style="display:inline-blok"
-          >#CloudNativeNordics</a>
+          >#CloudNativeID</a>
         </v-list-item>
       </v-col>
       <v-col cols="3" md="3" sm="3">
         <div style="text-align:center">
-          <a href="https://digitalocean.com" target="_blank">
+          <a href="https://cloud.google.com" target="_blank">
             <img class="d-none d-md-flex" width="155px" src="/DO_Powered_by_Badge_blue.png" />
             <img class="d-flex d-md-none" width="100px" src="/DO_Powered_by_Badge_blue.png" />
           </a>

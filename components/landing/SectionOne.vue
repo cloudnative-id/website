@@ -4,11 +4,11 @@
       <v-spacer></v-spacer>
       <v-col sm="12" md="4" lg="4" cols="12">
       <div class="welcome">
-        <h3>Hej! Hallå!</h3>
-        <h3>Hallo! Hei! Halló!</h3>
+        <h3>Halo! Sampurasun! Horas!</h3>
+        <h3>Sugeng Rawuh!</h3>
         <br />
         <h1>Welcome to</h1>
-        <h1>Cloud Native Nordics</h1>
+        <h1>Cloud Native Indonesia</h1>
         </div>
       </v-col>
       <v-col sm="12" md="4" lg="4" cols="12" justify="right" align="right" class="d-none d-sm-flex">

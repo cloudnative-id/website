@@ -21,7 +21,7 @@
               <v-flex class="d-flex justify-center" xs12>
                 <a
                   class="mr-2"
-                  :href="meetupGroup.city ? 'https://github.com/cloud-native-nordics/meetups/tree/master/'+ meetupGroup.city.toLowerCase() : 'https://github.com/cloud-native-nordics/meetups/tree/master/'"
+                  :href="meetupGroup.city ? 'https://github.com/cloudnative-id/meetups/tree/master/'+ meetupGroup.city.toLowerCase() : 'https://github.com/cloudnative-id/meetups/tree/master/'"
                   target="_blank"
                 >
                   <img contain src="/github.png" height="33px" />

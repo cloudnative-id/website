@@ -4,10 +4,10 @@
       <v-spacer></v-spacer>
       <v-col cols="8" justify="center" align="center">
         <v-row justify="center">
-                <h2>Cloud Native Nordics is rapidly growing</h2>
+                <h2>Cloud Native Indonesia is rapidly growing</h2>
         </v-row>
         <v-row justify="center">
-          The numbers below are based on data from meetup.com and generated using our &nbsp<a href="https://github.com/cloud-native-nordics/meetups" target="_blank"> meetup-generator</a>
+          The numbers below are based on data from meetup.com and generated using our &nbsp<a href="https://github.com/cloudnative-id/meetups" target="_blank"> meetup-generator</a>
         </v-row>
 
         <br />
