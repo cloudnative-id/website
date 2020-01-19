@@ -3,7 +3,7 @@
     <v-app-bar text app flat>
       <v-toolbar-title>
         <nuxt-link to="/" style="position: relative;">
-          <v-img width="20%" src="/logo.svg" />
+          <v-img width="80%" src="/logo.png" />
         </nuxt-link>
       </v-toolbar-title>
 
@@ -42,7 +42,7 @@
       <v-list class="mobile-nav">
         <v-list-item-group subheader three-line v-model="group">
           <nuxt-link to="/" style="position: relative;">
-            <v-img width="20%" src="/logo.svg" />
+            <v-img width="80%" src="/logo.png" />
           </nuxt-link>
           <v-btn large text depressed block to="/meetup-groups">
             <span>
