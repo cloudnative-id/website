@@ -1,4 +1,4 @@
-export PROJECT=cloud-native-nordics-website
+export PROJECT=website
 
 all: run
 
@@ -6,7 +6,7 @@ run:
 	npm run dev
 
 build-image:
-	docker build -t cloud-native-nordics/${PROJECT} .
+	docker build -t cloudnativeid/${PROJECT} .
 
 clean:
 	sudo rm bin/${PROJECT}

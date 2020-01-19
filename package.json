@@ -1,7 +1,7 @@
 {
-  "name": "cloud-native-nordics-website",
+  "name": "cloudnative-id-website",
   "version": "1.0.0",
-  "description": "Website to display cloud native nordics stats",
+  "description": "Website to display cloud native indonesia stats",
   "author": "Jepp2078",
   "private": true,
   "scripts": {
