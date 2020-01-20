@@ -3,7 +3,7 @@
     <v-app-bar text app flat>
       <v-toolbar-title>
         <nuxt-link to="/" style="position: relative;">
-          <v-img width="80%" src="/logo.png" />
+          <v-img width="80%" src="/logo-text-horizontal.svg" />
         </nuxt-link>
       </v-toolbar-title>
 
