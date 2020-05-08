@@ -25,17 +25,17 @@
           </v-list-item-icon>
           <a
             class="d-none d-md-flex"
-            href="https://twitter.com/hashtag/CloudNativeID"
+            href="https://twitter.com/CloudNativeID"
             target="_blank"
             style="display:inline-blok"
-          >#CloudNativeID</a>
+          >CloudNativeID</a>
         </v-list-item>
       </v-col>
       <v-col cols="3" md="3" sm="3">
         <div style="text-align:center">
           <a href="https://cloud.google.com" target="_blank">
-            <img class="d-none d-md-flex" width="155px" src="/DO_Powered_by_Badge_blue.png" />
-            <img class="d-flex d-md-none" width="100px" src="/DO_Powered_by_Badge_blue.png" />
+            <img class="d-none d-md-flex" width="255px" src="/GCP_powered_by.png" />
+            <img class="d-flex d-md-none" width="200px" src="/GCP_powered_by.png" />
           </a>
         </div>
       </v-col>
