@@ -16,7 +16,7 @@
     "@nuxtjs/vuetify": "1.0.2",
     "graphql-tag": "2.10.1",
     "moment": "^2.24.0",
-    "nuxt": "2.8.1"
+    "nuxt": "3.12.4"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
